@@ -1,0 +1,6 @@
+<p>Santiago de los caballeros</p>
+<span id="Santiago_de_los_Caballeros_z17a"></span>
+<script src="//widget.time.is/es.js"></script>
+<script>
+time_is_widget.init({Santiago_de_los_Caballeros_z17a:{template:"TIME<br>DATE", time_format:"12hours:minutesAMPM", date_format:"dayname daynum de monthname del year"}});
+</script>
